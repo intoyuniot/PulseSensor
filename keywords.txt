@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ PulseSensor   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+Run  KEYWORD2
+GetBPM  KEYWORD2
+SerialOutputWhenBeatHappens  KEYWORD2
+SendDataToSerial  KEYWORD2
+LedFadeToBeat  KEYWORD2
+SerialOutput  KEYWORD2
+SerialMonitorVisual  KEYWORD2
+PulseISR  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
